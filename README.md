@@ -1,2 +1,2 @@
 # GApi
-GApi
+GApi - web framework
